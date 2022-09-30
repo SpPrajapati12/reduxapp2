@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Sandip 123",
+      "email": "anurag@yopmail.com",
+      "address": "Om nagar",
+      "contact": "52526243624",
+      "id": 1
+    },
+    {
+      "name": "sdgsdjujuu",
+      "email": "123@gmail.com",
+      "address": "DD",
+      "contact": "21353124556",
+      "id": 2
+    },
+    {
+      "name": "sandip",
+      "email": "admin@admin.com",
+      "address": "gota1",
+      "contact": "535464646",
+      "id": 3
+    }
+  ]
+}
